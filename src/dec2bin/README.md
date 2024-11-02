@@ -1,0 +1,1 @@
+This C++ program converts a decimal number to binary. Please translate this program into C.
